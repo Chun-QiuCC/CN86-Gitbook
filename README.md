@@ -9,3 +9,5 @@
 欢迎加入 [CN86实验网络QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=ZrLIxTgGY5P7W8SgNGfZWlLCY1kcf9Ev&jump_from=webapi&authKey=sqA+q7NjvCydLhxv5+bynRK3Jgu8DnVo6PIMenYPGrNwMNB32fd9cFFmZ3qKwpe2) 以获取最新消息
   
 本Wiki使用 **GitBook** 进行驱动 并 使用 **CloudFlare** 进行编译并发布
+
+见 [https://wiki.cn86.dev/](https://wiki.cn86.dev/)
